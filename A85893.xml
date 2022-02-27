@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Noah's flood returning: or, a sermon preached August the 7th. 1655. before the right honourable Christopher Pack, Lord Major of the honourable citie of London, and the right worshipfull, the company of Drapers. By R. Gell, D.D. and rector of the parish of Mary Alder-Mary, London.</title>
+            <author>Gell, Robert, 1595-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85893</idno>
+            <idno type="STC">Wing G471</idno>
+            <idno type="STC">Thomason E852_14</idno>
+            <idno type="STC">ESTC R207451</idno>
+            <idno type="EEBO-CITATION">99866501</idno>
+            <idno type="PROQUEST">99866501</idno>
+            <idno type="VID">168277</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85893)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168277)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E852[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Noah's flood returning: or, a sermon preached August the 7th. 1655. before the right honourable Christopher Pack, Lord Major of the honourable citie of London, and the right worshipfull, the company of Drapers. By R. Gell, D.D. and rector of the parish of Mary Alder-Mary, London.</title>
+                  <author>Gell, Robert, 1595-1665.</author>
+               </titleStmt>
+               <extent>[8], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. and are to be sold by Giles Calvert ay the Black-spread Eagle, at the West end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXIV, 37-39 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168277:1" rendition="simple:additions"/>
+            <p>Noahs Flood Returning: OR, A SERMON Preached <hi>Auguſt</hi> the 7<hi rend="sup">th.</hi> 1655. before the Right Honourable CHRISTOPHER PACK, Lord Major of the Honourable Citie of <hi>London,</hi> And the Right Worſhipfull, the Company of DRAPERS.</p>
+            <p>By <hi>R. Gell,</hi> D. D. and Rector of the Pariſh of <hi>Mary Alder-Mary, London.</hi>
+            </p>
+            <q>
+               <bibl>1 Theſſ. 5.3.</bibl>
+               <p>For when they ſhall ſay, Peace and ſecuritie: then ſudden de<g ref="char:EOLhyphen"/>ſtruction cometh upon them, as travel upon a woman with child, and they ſhall not eſcape.</p>
+            </q>
+            <q>
+               <bibl>Jude 7.</bibl>
+               <p>Even as <hi>Sodome</hi> and <hi>Gomorrah,</hi> and the Cities about them are ſet forth for an example.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> and are to be ſold by <hi>Giles Calvert</hi> at the Black-ſpread Eagle, at the Weſt end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168277:2"/>
+            <pb facs="tcp:168277:2"/>
+            <head>TO THE RIGHT HONOVRABLE, <hi>CHRISTOPHER PACK,</hi> Lord Major of the Honourable Citie of <hi>London,</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>FTER Experience of Gods great Goodneſs and Mercy towards my Self, and my Neighbours in this City; in delivering us from the Im<g ref="char:EOLhyphen"/>minent perill of Fire <hi>Ian.</hi> the ſeventeenth, 1654. I was emboldened humbly to offer to Your Lordſhip, an Ex<g ref="char:EOLhyphen"/>pedient for the prevention of the like dan<g ref="char:EOLhyphen"/>gers among us: And upon mine humble addreſſes to Your Honour, I found ſuch a favourable Reception, and Your Self ſo ſen<g ref="char:EOLhyphen"/>ſible
+<pb facs="tcp:168277:3"/>of what I ſubmitted unto your ſerious conſideration, that I have often wiſhed an opportunity to acknowledge it:</p>
+            <p>Now ſince Divine Providence hath ſo ordered it, that I was choſen by Lot to preach before Your Honour and the Worſhipfull ſociety of Drapers; and having been much importuned by many of that Worſhipfull Company to print and publiſh my Sermon, ſuch as it was: Vpon which motion, weigh<g ref="char:EOLhyphen"/>ing in my ſelf the Argument of the Text, and the proſecution of it, (as I conceive) ſo need<g ref="char:EOLhyphen"/>full and ſeaſonable for theſe our times; Alſo obſerving your great wiſedome, and vigilancy over this populous Mother-City of our Nation; and that you might be the more excited through Gods aſſiſtance, to embrace and uſe all Occaſions offered to prevent (through the mercy of God, the Judgements, and miſeries which are impending and rea<g ref="char:EOLhyphen"/>dy to fall upon us, and this whole nation for ought we know) by reaſon of our loud cry<g ref="char:EOLhyphen"/>ing, and high provoking ſins: Againſt which I deſire to bear witneſſe and expreſſe to this ſinfull world, my zeal to be a Preacher
+<pb facs="tcp:168277:3"/>of Righteouſneſſe, which as the Wiſeman ſaith, <hi>in the day of wrath, delivereth from death,</hi> Prov. 11.4.</p>
+            <p>Vpon theſe conſiderations Right Hon<hi rend="sup">ble.</hi> I preſume to publiſh and dedicate the ſaid Sermon to your Lordſhip; being alſo more then confident, that what is ſincerely and uprightly intended, will be favourably and candidely accepted by your Honour, and your Worſhipfull Society; Which is all the Return deſired, and hoped for by him who is,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your humbly devoted Orator to ſerve You and his Generation, In the Lord Jeſus, Robert Gell.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168277:4"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Perſons before whom this Sermon was preached, are ſpecified in the Front of it; and the Occaſion of Preaching it, in the Authours Dedi<g ref="char:EOLhyphen"/>catorie Application: but it is inten<g ref="char:EOLhyphen"/>tended by the Authour for more pub<g ref="char:EOLhyphen"/>lick good, becauſe every <hi>Bonum Utile,</hi> the Maxime-holdeth <hi>quò communius eo melius;</hi> Therefore to this end was reſolved the Printing of it. And that None might ſnatch an occaſion to cavill the Authour, he hath been moſt carefull, as his Inch of time would per<g ref="char:EOLhyphen"/>mit; (For he was neceſsitated to go out of Town, with<g ref="char:EOLhyphen"/>in two dayes after his Preaching) to ſet down in due order, what before he publickly delivered, and did com<g ref="char:EOLhyphen"/>mit the Inſpection of All, to One that was willing and ready to ſee it done, as he knew the Authours minde; and therefore we hope it will come forth, both for matter form and intent, without juſt exception to any.</p>
+            <pb facs="tcp:168277:4"/>
+            <p>But yet if any Supercilious Criticke ſhall read, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>and the</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and then diſdainfully ſubſcribe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I ſhall preſume (In the Au<g ref="char:EOLhyphen"/>thours behalf) to reply thus: it is eaſily believed, even that the probability of his firſt Act, (For its Object, is in plain Engliſh) that he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, If he ſavour Heavenly Truth, and be skill'd in Divine Logick.</p>
+            <closer>
+               <signed>W. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:168277:5"/>
+            <pb n="1" facs="tcp:168277:5"/>
+            <head>A SERMON Preached before the Right Honourable, CHRISTOPHER PACK, Lord Major of the Citie of <hi>London;</hi> AND Before the Right Worſhipfull the Society of DRAPERS.</head>
+            <epigraph>
+               <q>
+                  <bibl>Matth. 24.37, 38, 39.</bibl>
+                  <p>
+                     <bibl>37</bibl> But as the dayes of <hi>Noah</hi> were, ſo ſhall alſo the coming of the Son of man be.</p>
+                  <p>
+                     <bibl>38</bibl> For as in the dayes that were before the flood, they were eating and drinking, marrying and giving in marriage, untill the day that <hi>Noe</hi> entered into the Ark:</p>
+                  <p>
+                     <bibl>39</bibl> And knew not, untill the flood came and took them all away: So ſhall alſo the coming of the Son of man be.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F this Text ſeem not fit for the occaſion of this grave and ſolemn Aſſembly, I doubt not but we ſhall find it, ere we leave it, ſui<g ref="char:EOLhyphen"/>table enough, and proper for the time. However, there is the ſame warrant both for the Preacher and his Text: The choice of both is to be referred unto the ſame Ori<g ref="char:EOLhyphen"/>ginall.</p>
+            <pb n="2" facs="tcp:168277:6"/>
+            <p>The words contain a Propheticall parallell touching the ſud<g ref="char:EOLhyphen"/>den and unexpected coming of Chriſt to judgement, which is delivered:
+<list>
+                  <item>1. Succinctly, and briefly, <hi>verſe</hi> 37.</item>
+                  <item>2. More fully and largely, <hi>v.</hi> 38, 39.</item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <p n="1">1. Succinctly and briefly: And ſo we have in the words theſe particulars;
+<list>
+                     <item>1. <hi>Noah</hi> and the Son of man are parallell.</item>
+                     <item>2. <hi>Noah</hi> had his dayes.</item>
+                     <item>3. The Son of man hath his coming, or his dayes, as <hi>Luke</hi> 17.26.</item>
+                     <item>4. The dayes of <hi>Noah,</hi> and the dayes or coming of the Son of Man, are paralleld.</item>
+                  </list>
+               </p>
+               <p>I ſhall not ſpend time in theſe; but onely explain who this Son of Man is; and what his coming is. For all theſe and other parallels, will meet us in the ſecond part of this Text.</p>
+               <p n="1">1. The Lord Jeſus very often ſtiles himſelf <hi>the Son of Man, Matth.</hi> 8.20. and 9.6. and 16.20. beſides many other places. And the reaſon is given by ſome; that thereby he might ſignifie his humane nature, which he took upon him for mans ſake, <hi>Heb.</hi> 2. For what is the Son of Man, but Man? as <hi>David</hi> explains one by the other, <hi>Pſal.</hi> 8.4.</p>
+               <p>Or, when he calls himſelf the Son of Man, he intimates, that he lives in mean repute, and a contemptible eſtate among men.</p>
+               <p>Or, he gave himſelf that name, by which he would be more familiarly known and called.</p>
+               <p>And this is all Interpreters make of this, when our Lord calls himſelf the Son of Man.</p>
+               <p>But I believe our Lord had greater reaſon than theſe, why he called himſelf the Son of Man. Nor do I doubt but he had reference unto <hi>Daniel,</hi> who was moſt punctuall in his obſerva<g ref="char:EOLhyphen"/>tion touching the <hi>Meſſiah,</hi> and the time of his appearing in the fleſh, and his coming to judgement, He is called, <hi>Dan.</hi> 7.13. <hi>The Son of Man.</hi>
+               </p>
+               <p>
+                  <label>Object.</label> But the words there are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as the Sonne of Man.</p>
+               <p>
+                  <label>Anſwer,</label> But here <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is not <hi>ſimilitudinis,</hi> but <hi>certitudinis,</hi> as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Phil.</hi> 2.8. As a man, not in ſimilitude onely, but alſo certainly. As when St. <hi>Paul</hi> ſaith, 1 <hi>Cor.</hi> 16.13. <hi>Quit your
+<pb n="3" facs="tcp:168277:6"/>ſelves like men, be ſtrong, &amp;c.</hi> For whereas <hi>Revel.</hi> 1.13. and 14.14. ye read of one <hi>like</hi> the Son of Man, no man queſtions but Chriſt is there to be underſtood. Our Lord therefore, hence implied that he was <hi>That Son of Man who was to appear, and to be born in Man,</hi> according to <hi>Gal.</hi> 4.19. <hi>Of whom I travell in birth, untill Chriſt be formed in you:</hi> which is the ſame that he meant, when he ſaith, <hi>He that doth the will of my Father which is in Heaven, he is my Brother, and Siſter, and Mother.</hi>
+               </p>
+               <p>Whence, He is ſaid to be the Judge of Man, becauſe he is <hi>That Son of man who is to judge the quick and the dead,</hi> Acts 17.31. John 5.27. compared with <hi>Dan.</hi> 7.13. and of this <hi>Son of Man</hi> ſo judgeing the Pſalmiſt ſpeaks, <hi>Pſal.</hi> 96.13.</p>
+               <p n="2">2. As for the coming of <hi>That Son of Man,</hi> the word here uſed is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies alſo preſence and being, which is more proper unto ſpirituall things. This coming may be many wayes underſtood; but I ſhall conſider it here onely as in regard of Perſons, or particular Churches, or generally in reſpect of all.</p>
+               <p>In regard of Perſons, ſo <hi>Jacob</hi> waited for him, <hi>Gen.</hi> 49.18. And St. <hi>John tarried untill he came,</hi> John 21.22. <hi>for he was in that day,</hi> Revel. 1.10. whoſe day <hi>Abraham rejoyced to ſee; he ſaw it and was glad,</hi> John 8.56.</p>
+               <p n="2">2. In regard of particular Churches, as that of the <hi>Corin<g ref="char:EOLhyphen"/>thians, waiting for the coming of our Lord,</hi> 1 <hi>Cor.</hi> 1.5, 6, 7. and 4.5. and 1 <hi>Theſſalonians,</hi> 5.23. <hi>I pray God your ſpirits may be preſerved blameleſs unto the coming of our Lord Jeſus Chriſt.</hi>
+               </p>
+               <p n="3">3. In regard of all, <hi>When every eye ſhall ſee him,</hi> Revel. 1.10.</p>
+               <p>Of this laſt, this laſt coming, I underſtand our Lord here to ſpeak: And this is parallell unto the dayes of <hi>Noah;</hi> In what reſpects, we ſhall underſtand from the more full and large ex<g ref="char:EOLhyphen"/>plication of it.</p>
+            </div>
+            <div n="2" type="part">
+               <p>Wherein may be obſerved many parallels between the dayes before the flood, and the coming of the Son of Man. I ſhall content my ſelf with theſe following.</p>
+               <p n="1">1. In the dayes before the flood they were eating and drinking, marying, and giving in mariage. And in theſe dayes, before the coming of the Son of Man, there is the like
+<pb n="4" facs="tcp:168277:7"/>eating, and drinking, marrying, and giving in marriage.</p>
+               <p n="2">2. They were ſo doing, untill <hi>Noah</hi> entered into the Ark. And theſe will be doing the ſame untill the coming of the Son of Man to take them away.</p>
+               <p n="3">3. There was a flood prepared in the dayes of <hi>Noah</hi> to take thoſe away, who were eating and drinking, &amp;c. And there is a like flood of Calamities, a new deluge, an overflowing ſcourge prepared in the dayes of the coming of the Son of Man, to take theſe away.</p>
+               <p n="4">4. Thoſe of the old world knew not, untill the flood came and took them all away.</p>
+               <p>And theſe of this later world ſo doing, will not know (untill the coming of the Son of Man) a like flood of calamities and judgements which ſhall take them all away.</p>
+               <p n="5">5. There was an Ark for the preſervation of <hi>Noah,</hi> and his houſhold, into which <hi>Noah</hi> entred.</p>
+               <p>And there is a Spirituall Ark of Regeneration for the pre<g ref="char:EOLhyphen"/>ſervation of the Spirituall <hi>Noah's</hi> houſe, into which he leads them.</p>
+               <p>Before I ſpeak of theſe particular parallels, I ſhall deſire you to obſerve one generall Truth, <hi>viz.</hi> That what was done in the Letter, and is recorded in the Hiſtory of the Old Teſta<g ref="char:EOLhyphen"/>ment, the ſame is here acted over again in the New Teſtament and dayes of the Spirit. The former being the time of promiſe and threatning, according to the Letter: The latter being the fulfilling of what is promiſed and threatned, according to the Spirit: Which may ſerve as a clue to lead us into the light of many like Scriptures.</p>
+               <p>I ſhall but name ſome, <hi>viz.</hi> firſt, the Story of the Creation, which is allegorized by the Prophets and Apoſtles. <hi>In the Beginning God created the Heaven and the Earth.</hi> The <hi>Thargum</hi> of <hi>Jeruſalem</hi> turns it, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in wiſdome, which is all one with what ye reade, <hi>Pſal.</hi> 104.24. <hi>In wiſedome haſt thou made them all;</hi> and 136.5, 6. <hi>Which wiſdom is the Son of God,</hi> 1 Cor. 1.24. <hi>By whom all things were made,</hi> John 1.3. Col. 1.16. And therefore he is called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The Beginning of the Creation of God,</hi> Revel. 3.14.</p>
+               <pb n="5" facs="tcp:168277:7"/>
+               <p>The Earth was without form and void, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Gen.</hi> 1. The Prophet hath the very ſame words importing mans un<g ref="char:EOLhyphen"/>regenerate eſtate, <hi>Jer</hi> 4.22, 23. <hi>The Lord ſaid Let there be light,</hi> Gen. 1. <hi>And God who commanded the light to ſhine out of darkneſſe, hath ſhined in our hearts,</hi> 2. Cor. 4.6. Thus we read of the new creatures, the new heavens, and the new earth, and the new making of them; <hi>That I may plant the heavens and lay the foundation of the earth, and ſay unto</hi> Zion, <hi>Thou art my people,</hi> Eſay 51.16. The firſt <hi>Adam</hi> was a type of the ſe<g ref="char:EOLhyphen"/>cond, <hi>Rom.</hi> 5. And all things belonging to the firſt, were as it were caſt in a mould of the animall life figurative of the ſpiri<g ref="char:EOLhyphen"/>tuall; or as a picture rudely drawn with lead or a coal, is a preparation for more orient and glorious colours to be laid on in the Spirituall life.</p>
+               <p>The more notable hiſtories alſo have, and are to have their ſpirituall fulfillngs; Such were the Lords deliverances of his people from <hi>Pharaoh</hi> King of <hi>Egypt,</hi> and from <hi>Og</hi> King of <hi>Ba<g ref="char:EOLhyphen"/>ſhan, Exod.</hi> 14.22. <hi>Num.</hi> 21. And the Lord promiſes the fulfilling of the ſame; again, <hi>Pſalme</hi> 68.22. And I will bring again from <hi>Baſhan,</hi> I will bring again from the depth of the Sea, <hi>Eſay</hi> 11.15, 16. and 51.10, 11. <hi>Zach.</hi> 10.10, 11.</p>
+               <p>This promiſe is fulfilled after a more eminent and excellent manner, <hi>Mich.</hi> 7.15. <hi>According to the dayes of thy coming out of the Land of</hi> Egypt, <hi>will I ſhew unto him marvellous things;</hi> what were they? the Prophet tells us from v. 19. <hi>He will turn again, he will have compaſſion upon us: he will ſubdue our in<g ref="char:EOLhyphen"/>iquities, and thou wilt caſt all their ſins into the depths of the Sea.</hi>
+               </p>
+               <p>That promiſe of Chriſt to be born, <hi>Eſay</hi> 7.14. was not ac<g ref="char:EOLhyphen"/>compliſht onely in the fulneſſe of time, <hi>Gal.</hi> 4. but alſo to be fulfilled afterward in the Spirit among the <hi>Gentils, Revel.</hi> 12. The promiſe that the ten tribes ſhould return, <hi>Jer.</hi> 31. is ſaid to be fulfilled, <hi>Matth.</hi> 2.18.</p>
+               <p>The promiſe of the Spirit to be poured out, <hi>Joel</hi> 2. had a fulfilling, <hi>Act.</hi> 2. yet is it continually fulfilled, and fulfilling ſo often as there are veſſels to receive it, <hi>Act.</hi> 2.39. And thus the Prophets and Apoſtles allegorize the Old Teſta<g ref="char:EOLhyphen"/>ment.</p>
+               <pb n="6" facs="tcp:168277:8"/>
+               <p>And all the Fathers, in this very way of teaching, have imitated the Prophets and Apoſtles; And therefore I do not believe, that it is diſhonourable to the Children, <hi>Patrizare,</hi> to be followers of their Fathers herein; much leſſe to be follow<g ref="char:EOLhyphen"/>ers of Chriſt, who doth here expreſly give the allegory of what was figured in the hiſtory of <hi>Noah's</hi> flood.</p>
+               <div n="1" type="section">
+                  <p>Come we now to the firſt of theſe parallels: in the dayes of <hi>Noah,</hi> they were eating, and drinking, marrying and giving in marriage; and in theſe dayes before the coming of the Son of man; they will be eating, and drinking, marrying and giving in mariage.</p>
+                  <p>Thoſe cuſtomary manners and practices of the old world, are expreſſed to reſemble the lik uſages of this latter world, and both aggravated by the time, in the dayes of <hi>Noah,</hi> and in the dayes of the coming of the Son of man;</p>
+                  <p>Which are laid down in 2. paire of naturall actions.</p>
+                  <list>
+                     <item>1. <hi>Eating</hi> and <hi>Drinking.</hi>
+                     </item>
+                     <item>2. <hi>Marrying</hi> and <hi>Giving in marriage.</hi>
+                     </item>
+                  </list>
+                  <p>Which as in nature, ſo in Scripture they go together.</p>
+                  <p>Unto this example of <hi>Noah's</hi> dayes, Saint <hi>Luke</hi> adds the like of <hi>Lots</hi> dayes, they did eat, they drunk, they bought, they ſold, they planted, they builded.</p>
+                  <p>And what does our Lord blame in the firſt pair of the worlds actions, eating and drinking? 2 For they proceed from natural deſires implanted in us by the God of nature, and with<g ref="char:EOLhyphen"/>out which, the perſon of the man cannot be naturally preſerved.</p>
+                  <p>The Lord blames not theſe actions, but their carnal ſecurity: who did eat and drink</p>
+                  <p n="2">2. Yea, their immoderate and inordinate eating and drink<g ref="char:EOLhyphen"/>ing; They were <hi>toti in his,</hi> they were wholly taken up in actions of this nature. And the Holy Ghoſt expreſſes it in the phraſe here uſed, ſignifying an imperfect time, ſome paſt and ſome preſent, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; they were eat<g ref="char:EOLhyphen"/>ing and drinking, and the agents thoſe who ſpent and were ſpending their time thus, ſo a doing that they were yet about to do what they now did; they made it their buſineſſe, and they went every day conſcienciouſly about the doing of i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <pb n="7" facs="tcp:168277:8"/>
+                  <p>The reaſon is, Though our calling be an high and heavenly calling, yet by reaſon of our earthly being, the preſent ſeeming good drawes forcibly downward, which the Wiſeman hath well obſerved, <hi>Wiſ.</hi> 9.15. <hi>That the corruptible body preſſeth down the ſoul, and the earthly tabernacle weigheth down the mind that mu<g ref="char:EOLhyphen"/>ſeth on many things.</hi> And whereas the man ſtands, as <hi>Hercules</hi> is fabled <hi>in bivio,</hi> with wiſdome traceing on the right hand, and folly on the left: we read of <hi>Samlah</hi> (one of <hi>Edoms</hi> poſteri<g ref="char:EOLhyphen"/>ty) that he was of <hi>Maſrekah; Samlah</hi> is the left hand, and <hi>Maſrekah</hi> the drawing of vanity, <hi>Gen.</hi> 36.36.</p>
+                  <p>Now the ſtream of the thoughts, wills and affections can run inſenſibly but one way at once; For we cannot ſerve God and Mammon; God and the world, God and our bel<g ref="char:EOLhyphen"/>ly.</p>
+                  <p n="2">2. They neglected the Preachers of righteouſneſſe: <hi>Venter non habet aures.</hi> And <hi>Quos perdere vult Deus dementat.</hi>
+                  </p>
+                  <p>Obſerv. Our Lord ſaith not, that they were gluttons and drunkards, but that they were eating and drinking. Even naturall and lawfull actions may be dangerous in regard of ſin, which may cleave to them: or dangerous temptations unto ſin, or in regard of ſome penall evill or true puniſhment. For <hi>Eſau</hi> did eat and drink, and roſe up, and deſpiſed his birth<g ref="char:EOLhyphen"/>right; and is therefore called a profane perſon, <hi>Heb.</hi> 12. So, <hi>The people ſat down to eat, and to drink, and roſe up to play,</hi> Ex<g ref="char:EOLhyphen"/>od. 32.6. and the <hi>Sichemites</hi> did eat, and drink and curſed <hi>Abimelech:</hi> therefore whereas <hi>Jobs</hi> Children had a cuſtom of feaſting at one anothers houſes, <hi>Job</hi> 1.4. their father feared leſt they might curſe God in their hearts, and therefore he of<g ref="char:EOLhyphen"/>fered ſacrifice in behalf of them continually, or all the dayes of their feaſting. <hi>Matth.</hi> 22. our Lord ſaith not, that he who was called and afterward excluded from the ſupper, went to plow iniquity, but that he went to his farm; an honeſt though now a poor calling.</p>
+                  <p>Nor doth he tell us that the Merchant handled the balance of deceit, but onely that he went to his Merchandize, a war<g ref="char:EOLhyphen"/>rantable good profeſſion.</p>
+                  <p>Thus in the dayes of <hi>Lot, Luk.</hi> 17.26. it is ſaid, They bought, they ſold, they planted, they builded; Our Lord
+<pb n="8" facs="tcp:168277:9"/>ſaith not that they ſinned ſimply in ſo doing; but he implies, that ſome dangerous temptation uſually adheres unto theſe &amp; ſuch like actions, as to buying and ſelling. Many, ſaith the Wiſe<g ref="char:EOLhyphen"/>man, have ſinned for a ſmall matter, and he that ſeeks for abun<g ref="char:EOLhyphen"/>dance and will be rich, will turn his eyes away, he is <hi>avidus.</hi> As a nail ſticks cloſe between the joyning of the ſtones, ſo doth ſin ſtick faſt between buying and ſelling, <hi>Eccle.</hi> 27.1, 2. Thus we have had the former pair of naturall actions: come we now to the latter, which our Saviour adds to them by reaſon that the former pair of naturall actions have ſuch an influence upon the later; for eating and drinking diſpoſe the body for marrying and giving in marriage. Yea, exceſſive eat<g ref="char:EOLhyphen"/>ing and drinking incline men to the ſins of uncleanneſſe; Firſt ſurfeting and drunkenneſſe, then chambering and wantonneſſe, <hi>Romans</hi> 13. Therefore ſaith <hi>Solomon, Look not on the wine when it is red;</hi> or <hi>Proverbs</hi> 23.31. <hi>Thine eyes ſhall behold ſtrange women.</hi>
+                  </p>
+                  <p>Now as they before the flood eagerly purſued the former deſires, ſo did they as violently purſue theſe later; and ſo or worſe do the men of the preſent generation. For we have ſuch marrying and giving in marriage, as never was in the Chriſtian world before theſe late times, proclaiming that great myſtery, as the Apoſtle calls it in <hi>Epheſ.</hi> 5. in the market-place among the profane multitude.</p>
+                  <p>But what ſpecial reaſon is there for this? There is an inbred deſire of perpetuating our being and name, which becauſe it cannot be obtained in ones own perſon, the naturall deſire is, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, to propagate it by poſterity. And herein is placed the naturalls mans hope of immortality, <hi>Gen.</hi> 4.17, 19. And as without eating and drinking the perſon of a man cannot by nature poſſibly be preſerved; ſo neither with<g ref="char:EOLhyphen"/>out marrying and giving in marriage, can mankind be orderly continued.</p>
+                  <p>But if the naturall deſire be not in due ſubordination unto the ſpirituall, that earthly marriage be not in order unto the heavenly, they who marry and are given in marriage are ac<g ref="char:EOLhyphen"/>counted no better then the children of this world, <hi>Luk</hi> 20.34. And he that married a wife, and therefore ſaid he could
+<pb n="9" facs="tcp:168277:9"/>not come, muſt not be admitted to the <hi>marriage Supper of the Lamb,</hi> Luke 14. And therefore the Apoſtle tells us, that <hi>ma<g ref="char:EOLhyphen"/>riage muſt be onely in the Lord,</hi> 1 Cor. 7.39.</p>
+                  <p>But what reaſon is there that our Lord ſhould name onely theſe two kinds of exceſſes, eating and drinking, marrying, and giving in marriage. <hi>Had not all the world corrupted its way be<g ref="char:EOLhyphen"/>fore the flood?</hi> Gen. 6. And before the overflowing ſcourge, our Lord foretells, that iniquity ſhould abound; and all of us can witneſs the truth of it.</p>
+                  <p>All manner of iniquity abounds, in high, in low, in rich, in poore, univerſall iniquity, contrary to the univerſall righte<g ref="char:EOLhyphen"/>ouſneſs of God. But the Spirit of God names onely that kind of iniquity which was then, and I believe, is now moſt rife and common among all men, intemperancy, incontinency, luxury, laſciviouſneſs, all manner of uncleanneſs.</p>
+                  <p>As for the other ſins I doubt not but they are common alſo, yet it is to be obſerved, that they are more properly and uſu<g ref="char:EOLhyphen"/>ally found among ſome ſorts of men; as pride commonly follows high places, and men in authority, eſpecially, ſuch as never were in authority before,
+<q>Asperius nihil eſt humili cum ſurgit in altum.</q>
+                  </p>
+                  <p>Covetouſneſs, how ever it be too generall, ſo that <hi>Mammon</hi> is one of the great City Gods, yet it's thought to be moſt rife among Officers, who very often are <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> bribetakers, <hi>Mich.</hi> 7.3. Envy though it be a ſin now Epi<g ref="char:EOLhyphen"/>demicall, and moſt what hides it ſelf under the name of zeal, yet its uſually found among men of Sciences and faculties; according to the Fable, that Envie being once miſſing in Hell, and ſought for, it was found in Monaſteries and Colledges, and ſo it is Academicall; I wiſh it were not ſo in our Pulpits. As Saint <hi>Paul</hi> complaind that it was of his time, ſome preach Chriſt of envie and ſtrife; ſo extortion and oppreſſion, how<g ref="char:EOLhyphen"/>ever at this day very common, yet it uſually harbours among Citizens, <hi>Ier</hi> 6.6. <hi>Simony is between</hi> Micha <hi>and his Levite, the Patrone and his Clerk;</hi> Hypocriſie and the Art of ſeeming ex<g ref="char:EOLhyphen"/>treme rife at this day, is found among religious men. <hi>Deceit, fraud, circumvention among Merchants,</hi> Hoſ. 12.7.</p>
+                  <pb n="10" facs="tcp:168277:10"/>
+                  <p>But as for intemperancy, incontinency, looſeneſs of life, vo<g ref="char:EOLhyphen"/>luptuouſneſs and ſenſualitie, &amp;c. Theſe are common to all men, to the Subject as well as to the Prince, the learned as the ig<g ref="char:EOLhyphen"/>norant, the poor as the rich, the wiſe as the fooliſh; and theſe bring the flood upon the world of the ungodly.</p>
+               </div>
+               <div n="2" type="section">
+                  <p n="2">2. They were ſo doing, untill <hi>Noah</hi> entred into the Ark: And they will be ſo doing, until the coming of the Son of Man.</p>
+                  <p>Would ye know the ground of this? <hi>Whoredome, wine and new wine take away the heart,</hi> Hoſ. 4 11. For as in nature all diſeaſes, everberate and weaken the man, whence the affection muſt needs continue: So in this State, ſinne the diſeaſe of the ſoul weakens it, as <hi>Ezekiel</hi> intimates, 17.30. <hi>How weak is thine heart, ſince thou doſt all theſe things, even the works of an impe<g ref="char:EOLhyphen"/>rious whoriſh woman.</hi>
+                  </p>
+                  <p>How dangerous therefore is it to adventure upon the be<g ref="char:EOLhyphen"/>ginning of ſin, ſince having begun, it is ſo hard to relinquiſh it. Which <hi>Solomon</hi> certainly intended, when he ſaid, In the tranſ<g ref="char:EOLhyphen"/>greſſion of an evill man, there is a ſnare, <hi>Prov.</hi> 29.6. whereby he is wound in the more faſt, the longer he acts his tranſgreſſi<g ref="char:EOLhyphen"/>on. The Prophet <hi>Jeremy</hi> ſpeaks more plainly; <hi>Can the</hi> Ae<g ref="char:EOLhyphen"/>thiopian <hi>change his skin, or the</hi> Leopard <hi>his ſpots? Then may ye alſo do good, which are accuſtomed to do evill.</hi>
+                  </p>
+                  <p>Therefore let us take <hi>Solomons</hi> advice which he gives, <hi>Prov.</hi> 17.14. In regard of ſtrife and contention, <hi>leave it off before it be medled with:</hi> So may we ſay of every ſin, leave it off before it be medled with. For this reaſon is common to all ſin, which he applies unto ſtrife: That the beginning thereof, is as when one lets out water: we ſoon will ſwell to an inundation of ſin; and that brings with it a flood of vengeance which is the third parallel.</p>
+               </div>
+               <div n="3" type="section">
+                  <p>There was a flood prepared in the dayes of <hi>Noah</hi> to take all thoſe away who were <hi>eating and drinking, marrying, and gi<g ref="char:EOLhyphen"/>ving in marriage.</hi>
+                  </p>
+                  <p>And there is a like flood of Calamities, a new deluge, an overflowing ſcourge prepared in the dayes of the coming of the Son of Man to take the like offenders away.</p>
+                  <pb n="11" facs="tcp:168277:10"/>
+                  <p>The word in the text is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which anſwers to <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> a word uſed onely to ſignifie <hi>Neah's</hi> Flood <hi>Gen.</hi> 6. verſe 7. <hi>Pſalme</hi> 29.10. It is derived either from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to fall, import<g ref="char:EOLhyphen"/>ing the great fall of waters; or from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> to confound, and ſo it notes that univerſal confuſion of all things wrought by the Flood.</p>
+                  <p>Such a like flood there muſt be, even a flood of fire, is that proper? ſurely it is ſutable to Saint <hi>Johns</hi> expreſſion who tells us of a burning Lake, and a Lake of fire, <hi>Revel.</hi> 19.20. and 20.10 &amp;c. For thus the Lord in both floods, holds proportion with the ſins of both worlds.</p>
+                  <p>The old world was overwhelmed with voluptuouſneſſe and ſenſuality, carnall ſins, ſins of the Concupiſcible: and the Lord overwhelmed them with a flood of waters. But the greater ſins of the later world, are ſpiritual, as great pride, (whereof 2. <hi>Eſd.</hi> 8.50. Hypocriſie, Envy, Ignorance, Bloody zeal, Wrath made holineſſe, &amp;c. Therefore the overwhelming ſcourge muſt be proportionable unto theſe ſpiritual ſins, and ſins of the Iraſcible even fire, warre and bloodſhed. <hi>For be<g ref="char:EOLhyphen"/>hold the Lord will come with fire, and with his Chariots, like a whirlewind, to render his anger with fury, and his rebuke with flames of fire; For by fire and by his Sword will the Lord plead with all fleſh,</hi> Eſay 66.15.16.</p>
+                  <p>But whence came either Flood? came it by chance? Or came it by an unavoidable fate and deſtiny?</p>
+                  <p>Surely, Judgement followes tranſgreſſion; the deluge of water ſuppoſes a deluge of ſin, the overflowing ſcourge ſuppo<g ref="char:EOLhyphen"/>ſes the overflowing and abundance of iniquity.</p>
+                  <p>And therefore Saint <hi>Peter</hi> tells us, that the Lord brought in the flood upon the world of the ungodly, 2. <hi>Pet.</hi> 2.5. It was firſt an ungodly world, and then the Lord brought in the flood upon it: whence it is called in the Dutch a Sin-flood.</p>
+                  <p>Again, the Lord is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Gen.</hi> 17.1, he hath ſufficiency of that wherewith he puniſheth; he hath a treaſury of wrath, 1. <hi>King.</hi> 8.46. and he brings out of his treaſury <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Eſay</hi> 13.6. The fire and the ſword, the famine, and the Peſti<g ref="char:EOLhyphen"/>lence.</p>
+                  <pb n="12" facs="tcp:168277:11"/>
+                  <p>VVhence appears the vain aſſertion of <hi>Beroſus,</hi> and <hi>Annius,</hi> that God had from the beginning determined a flood, which might be, and was foreſeen in the ſtarres and conſtellation of heaven. But that rule of Divines is moſt true; <hi>Praeſcientia Dei non imponit rebus neceſſitatem,</hi> though God foreſaw both the ſin and the ſin-flood, yet his foreſight impoſed no neceſ<g ref="char:EOLhyphen"/>ſity upon either. And therefore <hi>Calvin</hi> ſaith well, that the <hi>Chaldeans</hi> could not foreſee the deſtruction which was immi<g ref="char:EOLhyphen"/>nent; becauſe it proceeded not from the natural courſe of the ſtars, but from the ſecret counſel of God, to bring the flood upon the world of the ungodly.</p>
+                  <p>And how did, or ſhall it take them away?</p>
+                  <p>And how knew they not?</p>
+                  <p n="1">1. The word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> anſwers to the Hebrew <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Gen.</hi> 7.23. which we turn to deſtroy; but the word properly ſignifies to blot out, according to the analogie of waters, the flood may be ſaid to ſweep them away as filth, <hi>Proverbs</hi> 28.3. as a ſweeping rain, as in the time of the overflowing ſcourge, the hail ſweeps away the refuge of lies, and vain confidences of ungodly men, <hi>Eſa.</hi> 18.17.</p>
+                  <p n="2">2. But knew they not? How was that poſſible? for they had eight preachers of righteouſneſſe, whereof <hi>Enoch</hi> was the firſt, who began to preach in the Name of the Lord.</p>
+               </div>
+               <div n="4" type="section">
+                  <p>Thoſe of the old world knew not untill the flood came and took them away; And theſe of this later world ſo doing will not know, untill the coming of the Son of man, like a flood of calamities, and judgements which will take them all a<g ref="char:EOLhyphen"/>way: <hi>Gen.</hi> 4.26. for ſo the words ſhould be rendred.</p>
+                  <p>And Saint <hi>Peter</hi> calls <hi>Noah</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 2. <hi>Pet.</hi> 2.5. And theſe had warned them ſucceſſively from the flood, that from <hi>Enoch,</hi> above 1000. yeares, that from <hi>Noah's</hi> firſt preaching 120. years, and have they not known? The word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> anſwers to <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which ſignifies not onely to know, but to conſider and heed what we know; and therefore the LXX. turn it often by <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Thus <hi>Eccleſ.</hi> 5.2. They conſider not, that they do evill, <hi>Hebr.</hi> 3.10. <hi>They have not known my waies,</hi> ſo <hi>Paul</hi> may be underſtood, <hi>Act.</hi> 23.5.
+<pb n="13" facs="tcp:168277:11"/>I knew not, Brethren, that he was the high Prieſt, i<g ref="char:punc">▪</g> e. he conſidered not.</p>
+                  <p>Thus Saint <hi>Luke</hi> 21.31. oppoſeth the carnall ſecurity, that ſhould be at the coming of the Son of man, with this word, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Take heed that your heart be not overcharged, &amp;c. To know therefore is to take heed, which theſe did not, and therefore knew not: And ſo <hi>omnis peccans eſt ignorans.</hi>
+                  </p>
+                  <p>The reaſon why the men of that age knew not, that is, con<g ref="char:EOLhyphen"/>ſidered not untill the flood came, and why the men of this age likewiſe heed not the coming of the Son of man.</p>
+                  <p n="1">1. The men of the former and later world are inſenſible and hardned by the deceitfulneſſe of ſin, <hi>Hebr.</hi> 3.</p>
+                  <p n="2">2. Being ſo hardned they ſit down in the ſcorners chair and deride and mock thoſe who warn them of the judgment to come: <hi>impius cum pervenerit in profundum peccatorum, deridet,</hi> Aquin.</p>
+                  <p>As for thoſe of the old world, there are ancient monuments extant of their deriſion and mocking the holy men of God who exhorted them, and were examples of repentance unto the old world. <hi>Sem</hi> and <hi>Seth</hi> were in great honour among men, <hi>Ec<g ref="char:EOLhyphen"/>clus</hi> 49.6. whom the men of that age endeavoured by all meanes to diſhonour. As for <hi>Seth,</hi> he oppoſed <hi>Cain</hi> in ſtead of <hi>Abel</hi> whom <hi>Cain</hi> ſlew, he oppoſed the way of <hi>Cain</hi> who for his eminency of life was called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> and accounted a kind of God among good men, ſaith <hi>Theodoret, deificatus homo,</hi> a dei<g ref="char:EOLhyphen"/>fied man; and for that reaſon, he was oppoſed by the ungodly of his generation, who made his name a by word to poſterity; and ſo they dealt with <hi>Sem,</hi> who oppoſed the growing of Ido<g ref="char:EOLhyphen"/>latry. And therefore the wicked of that age abuſed him alſo; ſo <hi>Plutarch</hi> tells us, that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. They called <hi>Typhon,</hi> i. e. whatſoever is deſtructive and hurtful) <hi>Seth</hi> or <hi>Smu,</hi> inſerting <hi>Sems</hi> name, thoſe two great aſſertors of Divine worſhip and adverſaries of idolatry; <hi>Seth</hi> the Father of <hi>Enoch</hi> the firſt preacher of righteouſneſſe, and <hi>Sem</hi> the Son of <hi>Noah</hi> the eighth and laſt preacher of righteouſneſſe imme<g ref="char:EOLhyphen"/>diately before the flood.</p>
+                  <p>Theſe were the mockers in the dayes before the flood,</p>
+                  <pb n="14" facs="tcp:168277:12"/>
+                  <p>And the Apoſtle tells us, that there ſhall be mockers and ſcoffers in theſe laſt daies, the dayes before the overflowing ſcourge, 2. <hi>Pet.</hi> 3.34. <hi>Jud.</hi> verſe 18. according to the <hi>Pſal.</hi> 42.3. and <hi>Pſalme,</hi> 89.51. <hi>Who ſlander the footſteps of Gods Anointed, and ſay where is the promiſe of his coming?</hi>
+                  </p>
+                  <p>The Prophet <hi>Eſay</hi> having foretold the overflowing ſcourge, he forewarns the men of this generation, <hi>Iſaiah</hi> 28.22. <hi>Be not mockers, leſt your bonds be made ſtrong.</hi>
+                  </p>
+                  <p n="3">3: A third reaſon may therefore be from the equity of the great Judge to bring the flood upon the hardned and deriding world; according to which equity, he proceeds, 2. <hi>Chron.</hi> 36.18. They mocked the Meſſengers of God and deſpiſed his words, and miſuſed his Prophets, untill the wrath of the Lord aroſe againſt his people, till there was no remedy; therefore he brought upon them the King of the <hi>Chaldeans.</hi>
+                  </p>
+                  <p>Whence we may obſerve, that if the exorbitances and ex<g ref="char:EOLhyphen"/>ceſſes of naturall deſires, eating and drinking, &amp;c. ſuch as God himſelf hath implanted in our natures be thus deſtructive, and bring the flood upon the world of the ungodly; how much more ſhall theſe exceſſes, and exorbitances become deſtructive which the divel himſelf hath ſowen in our nature. If the good ſeed be thus abuſed as to prove degenerate, which the good man ſowed in the field, what ſhall become of tares, which the wicked man ſowed in it? ſuch are envy, and pride, and cove<g ref="char:EOLhyphen"/>teouſneſſe, and wrath, and falſe righteouſneſſe. Yet ſaid the perverſe judgment of the fooliſh world: every one can point at a great Eater, and reeling drunkard, and a poor letcher and indeed they are moſt infamous and ſhameful names; But the envious perſon gets credit by the worſt of ſins, being accounted zealous. <hi>Carnalia peccata plus habent infamiae, Spiritualia plus de natura peccati;</hi> ſaith <hi>Greg.</hi>
+                  </p>
+                  <p>In the dayes before the flood, they did eat, and drink, they married and were given in marriage, and the flood came, &amp;c. But in theſe dayes before the overflowing ſcourge, which ſhall now come upon the world: there are, who ſpend their pre<g ref="char:EOLhyphen"/>tious time in ſurfeting, and drunkenneſſe, in chambering and wantonneſſe, in gaming, in carding, in dicing, <hi>Cautè ſine Caſtè,</hi> which by woful experience many decaying, and ruined families can witneſſe.</p>
+                  <pb n="15" facs="tcp:168277:12"/>
+                  <p>They of the old world were chaſt, and honeſt in compariſon of many in this preſent laſcivious generation, they made uſe of the meanes ordained by God, and Nature for the ſatisfaction of their naturall deſires; They married wives and gave in marri<g ref="char:EOLhyphen"/>age.</p>
+                  <p>But as for many of this later world they bound not their un<g ref="char:EOLhyphen"/>ruly appetites with the lawful uſe of marriage, but break all bonds of God and nature, and glory as if they had attained unto ſome notable degree of perfection in the fleſh; all wo<g ref="char:EOLhyphen"/>men are to them alike, they are of a new world, who neither marrie nor are given in marriage, but are as the Angells, <hi>videl.</hi> ſuch Angells as kept not their firſt eſtate or principality: ſuch as walk according to their ungodly luſts. And therefore St. <hi>Luke</hi> in the parallell place to my text, Chap 17.26. relates our Lords words thus, <hi>They did eat and drink, they bought, they ſould, they planted, they builded;</hi> there is no mention made of marry<g ref="char:EOLhyphen"/>ing and giving in marriage. They of <hi>Sodom</hi> prefigured the men of this unclean generation; and muſt not we expect a like judgment unto that of <hi>Sodom?</hi> If not a greater, when accord<g ref="char:EOLhyphen"/>ing to the Prophet, they juſtified the old world in all the abo<g ref="char:EOLhyphen"/>minations which they have done, <hi>Ezech.</hi> 16.51.</p>
+                  <p>Theſe are moſt deceitful luſts, and would perſwade us to ſe<g ref="char:EOLhyphen"/>curity in them; but let no man deceive you with vain words, For becauſe of theſe things commeth the wrath of God, <hi>Ephe<g ref="char:EOLhyphen"/>ſians</hi> 5.</p>
+                  <p>Beloved in the Lord! The men of the old world had a time of repentance and humiliation granted them, before the flood, even 120. years; but the men of that age knew not their time, and neglected the eighth Preacher of righteouſneſſe, and while they were eating and drinking, &amp;c. while they were yet in their carnall ſecurity, they knew not, and the flood came, and took them all away.</p>
+                  <p>And hath not the like time of humiliation and repentance been granted unto us before the overflowing ſcourge? hath not the Angell flying in the middſt of heaven, preached unto them that dwell on the earth, ſaying with a loud voice; <hi>Fear God and give glory unto him: for the hour of his judgment is
+<pb n="16" facs="tcp:168277:13"/>come,</hi> Revel. 14.6, 7. And ſhall we not know our time, our precious time?</p>
+                  <p>Shall we abuſe it as they did, or worſe then they did? ſhall it be ſaid of us, as it was of the ſtupid Jews, <hi>Jer.</hi> 8.7. <hi>The ſtork in the heaven knowes her appointed times, and the turtle and the crane, and the ſwallow obſerve the time of their coming; but my people know not the Judgment of the Lord.</hi> Shall we not know as they knew not, and ſhall the overflowing ſcourge ſur<g ref="char:EOLhyphen"/>prize us in our like carnal ſecurity?</p>
+                  <p>Beloved! If we were well aſſured, that the coming of the Lord were near at hand, we would be awakenned out of our lethargy, our drowzy ſecurity, and look about us, that it might not take us at unawares.</p>
+                  <p>Now Beloved! <hi>The coming of the Lord to Judgment is near, even at the dores.</hi> Remember, I beſeech ye the paralells which ye have heard. Our Lord tells us, that the coming of the Son of man to Judgment, ſhould be like the Lords coming in the days of <hi>Noah.</hi> The like riotous eating and drinking, marrying and giving in marriage.</p>
+                  <p>The like, yea the ſame wicked men, For <hi>Enoch</hi> the ſeventh from <hi>Adam</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> he propheſied to the ſame men.</p>
+                  <p>Therefore the wiſedome of God hath ſo expreſſed the ſins of the old world as paſt and gone, that under the ſame form of words is foretold the ſin of this later world, <hi>Gen.</hi> 6.11, 12, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>The earth was corrupt before God, and the earth was filled with violence.</hi> Which words ſignifie as well, The earth ſhall be corrupt and the earth ſhall be filled with vi<g ref="char:EOLhyphen"/>olence. And who ſees not that the words are as true of this later, as of the former world? The ſame decree of the Judg<g ref="char:EOLhyphen"/>ment reaches as well to this later as to the former world, 2 <hi>Pet.</hi> 3.7.</p>
+                  <p>Yea the ſignes preceding our Lords coming have all, or moſt of them had their accompliſhments.
+<list>
+                        <item>Impoſtors and deceivers coming in the name of Chriſt, have de<g ref="char:EOLhyphen"/>ceived many</item>
+                        <item>Warres for religion with their effects.</item>
+                        <pb n="17" facs="tcp:168277:13"/>
+                        <item>Perſecutions of the Saints.</item>
+                        <item>The abounding of iniquity, and decay of love.</item>
+                        <item>The preaching of the Goſpel in all the world.</item>
+                        <item>The diſcovery of the abomination of deſolation.</item>
+                        <item>A woe to them that preach the Goſpel.</item>
+                        <item>The darkning of the Luminaries and the old Heavens.</item>
+                        <item>The ſign of the Son of man in heaven even Chriſt on the Croſſe with his wounds in his hands and his feet, and the Angels round about him, hath appeared in <hi>Frankenland</hi> in <hi>Germany</hi> about two years ſince, in the view of thouſands, three hours together at midday, if there be any belief to be given to the conſtant teſtimony of many witneſſes.</item>
+                     </list>
+                  </p>
+                  <p>Beſides all theſe compariſons between the daies of <hi>Noah,</hi> and the coming of the Son of man, I ſhall adde one more touching the time. I conceive it worth your obſervation; That juſt ſo many years were from the firſt <hi>Adam</hi> to the flood of <hi>Noah,</hi> 1656. and ſomewhat more as will be run out, from the ſecond <hi>Adam,</hi> or Chriſt in the fleſh, the very next year, 1656. toward the end.</p>
+                  <p>It is true; The Lord hath put the times and ſeaſons in his own power, Nor dare I to determine the ſet time. Nor hath the Lord himſelf revealed it.</p>
+                  <p>But many believe that the next year will bring with it a no<g ref="char:EOLhyphen"/>table change in the world, yea; yea, many place the end of the world in that year; And find the ſame Chronographical num<g ref="char:EOLhyphen"/>ber of years, 1657. in theſe words <hi>M<g ref="char:V">Ʋ</g>nDI ConfLagra<g ref="char:EOLhyphen"/>tIo.</hi> See <hi>Alſted</hi> in his Chronology. Surely theſe Synchroniſmes and periods of time are not to be neglected. And I believe there is no wiſe man, who obſerves <hi>Tempora, &amp; mores,</hi> the times and manners of men of this preſent generation, but he will con<g ref="char:EOLhyphen"/>feſſe that we are ripe, thorow ripe for Judgment, and all things at home and abroad look fatally that way. What think we of the many great fires in forreign parts, and in this nation, and in this Mother-city? what els bode they, but the beginnings of Judgment, that muſt be managed by fire? All other parts of this nation have ſuffered their ſhare of the vvarres. Look into the Word of God, and ſee whether the Metropolis or mother-City be not alwaies threatned; as of <hi>Moab; Rabbath</hi> of the
+<pb n="18" facs="tcp:168277:14"/>
+                     <hi>Ammonites,</hi> and many the like, yea <hi>Jeruſalem</hi> in <hi>Judaea,</hi> accor<g ref="char:EOLhyphen"/>ding to <hi>Jer.</hi> 6.6. It's ſaid, this City is to be viſited, and for the reaſon following &amp;c.</p>
+                  <p>Here the fire was firſt kindled which hath burnt in all the neighbour nations. Hither all the ſpoiles have bin brought. Many of our next neighbour nations have bin ſent into forrein Countries. Are there no nations left to ſend us alſo? <hi>O uti<g ref="char:EOLhyphen"/>nam ego in hiſce falſus Chalchas eſſem!</hi> Would God I were de<g ref="char:EOLhyphen"/>ceived in all theſe! The Lord avert this overflowing ſcourge from us! But Beloved, The time of grace yet laſts.</p>
+                  <p>Wherefore if we be wife, while we have time, let us do as <hi>Noah</hi> did; Being moved with fear, he built an Ark.</p>
+                  <p>And that is,</p>
+               </div>
+               <div n="5" type="section">
+                  <p>The fifth and laſt paralell, There was an Ark for the preſer<g ref="char:EOLhyphen"/>vation of <hi>Noah</hi> and his houſe, into which <hi>Neah</hi> entred. And there was, and is a ſpiritual Ark of Regeneration for the prefer<g ref="char:EOLhyphen"/>vation of the ſpiritual <hi>Noah's</hi> houſe, into which he leads them.</p>
+                  <p>And what is that Ark ſpiritually but the Church? ſaith St. <hi>Auſtin</hi> Expreſſely, <hi>Nulli noſtrûm dubium eſt, Arcam Noë, ſal<g ref="char:EOLhyphen"/>vâ rerum geſtarum ſide, Eccleſiam fuiſſe figuratam.</hi> This, ſaith he, ſome might think to be an invention of man, unleſſe the A<g ref="char:EOLhyphen"/>poſtle himſelf had averred as much, 1 <hi>Pet.</hi> 3.20, 21. <hi>The long<g ref="char:EOLhyphen"/>ſuffering of God waited in the dayes of Noah while the Ark was preparing wherein few, that is, eight ſouls were ſaved by water.</hi>
+                  </p>
+                  <p n="1">1. They were ſaved in the Ark, figuring the proportion of Chriſts dead body. Divers of the Antients have their myſtr<g ref="char:EOLhyphen"/>call underſtanding of the Ark; One more bodily. The dimen<g ref="char:EOLhyphen"/>ſions or meaſures of the Ark have the ſame proportion with thoſe of a mans body, lying flat upon the back; whoſe depth from the back to the breſt, is the tenth part of its length, as 30. is to 300. and the breadth from ſide to ſide is the ſixth part of the length, as 50. is to 300. Which is the proportion of the Ark.</p>
+                  <p n="2">2. Another they have more ſpiritual. The three ſtories in the Ark, and regions in the body anſwer to the three degrees of Baptiſme in the name of the Father Son and the holy Spirit, <hi>Matth.</hi> 28. Accordingly St. <hi>Peter</hi> applyes it unto Baptiſme, 1 <hi>Pet.</hi> 3. In reference unto this and repreſentation of it, <hi>the bo<g ref="char:EOLhyphen"/>dies of the dead were wont to be waſhed,</hi> Act. 9.37. He<g ref="char:EOLhyphen"/>brews 10.22.</p>
+                  <pb n="19" facs="tcp:168277:14"/>
+                  <p n="2">2: They were ſaved in the Ark by water, which imports the waſhing of Regeneration, <hi>Tit.</hi> 3.5. and therefore St. <hi>Peter</hi> preſently addes, The like figure hereunto even Baptiſme doth now ſave us. By which water we are to underſtand the word which ordinarily is joyned to Baptiſme, <hi>Heb.</hi> 6.2. <hi>The doctrine of Baptiſmes,</hi> Epheſ. 5.26. <hi>the waſhing of water by the Word.</hi> and therefore <hi>Philo Judeus</hi> ſaith, that the ſaving of <hi>Noah</hi> and his houſe by water, was an image and figure <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> of Re<g ref="char:EOLhyphen"/>generation or being born again from the dead, which the Apo<g ref="char:EOLhyphen"/>ſtle himſelf affirmes, 1 <hi>Pet.</hi> 3.21. the ſame vvhich ye read, <hi>Col.</hi> 2.12. <hi>buried with him by Baptiſme &amp;c.</hi>
+                  </p>
+                  <p>This is called Regeneration, or being born again, or the ſe<g ref="char:EOLhyphen"/>cond birth, becauſe it hath a former birth, a firſt birth preſup<g ref="char:EOLhyphen"/>poſed. But that firſt birth is not the natural generation, or birth according to nature, but the nevv birth, the firſt and nevv creation of vvhich St. <hi>James</hi> ſpeaks, <hi>Jam.</hi> 1.17, 18. <hi>Of his own will he begat us</hi> that vve ſhould be a kind of firſt fruits &amp;c. Of ſuch a good vvill are the obedient children vvho are not faſhi<g ref="char:EOLhyphen"/>oned according to their former luſts in their ignorance, 1 <hi>Pet.</hi> 1.14. Such are the nevv born babes, cap. 2.2. <hi>Rom.</hi> 7. <hi>Gal.</hi> 4.19. &amp; 5.17. the Regeneration is yet a further degree, as being of thoſe who are conformed unto the death of Chriſt by dying unto ſin, and to his life by conformity unto his Reſurrection. Such Regenerated Ones are they who are born from the dead with Chriſt, and ſo become children of the Reſurrection.</p>
+                  <p>But ſaith the poor Soul, if there be no eſcaping of the flood, no ſalvation but in ſuch a ſpiritual Ark, What ſhall become of me? Alas! mine iniquities come about me like water, and the floods of ungodlineſſe make me afraid. Hearken what the true <hi>Noah</hi> thy Comforter ſaith unto thee, <hi>Let not thy heart be troubled,</hi> Joh. 14.1. Not troubled? Here's a diſtinction that's threatned unto all the earth an overflowing ſcourge, a con<g ref="char:EOLhyphen"/>ſumption determined upon the whole earth: And how then can I, but I muſt be troubled? there is indeed a degree of faith which may conſiſt with fear and doubting. <hi>Peter</hi> had that lit<g ref="char:EOLhyphen"/>tle faith, and was afraid and doubted, <hi>Matth.</hi> 14.30, 31. That little ſaith cannot ſupport to hinder the ſoul from ſinking; Thou believeſt in God the father, believe alſo in Chriſt, <hi>Joh.</hi> 14.1.
+<pb n="20" facs="tcp:168277:15"/>that faith upholds the ſoul from ſinking into deſpair. There<g ref="char:EOLhyphen"/>fore the Ark, <hi>Gen.</hi> 7.18. which is ſaid to <hi>have gone upon the wa<g ref="char:EOLhyphen"/>ters.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> according to divine artifice may as well be tur<g ref="char:EOLhyphen"/>ned, the Ark ſhall go upon the waters: whence <hi>Jeſus Chriſt is ſaid to be our hope,</hi> 1 Tim. 1.1. And therefore till Chriſt comes, the children are all their life time ſubject to bondage and fear, <hi>Hebr.</hi> 2.15. This is the true <hi>Noah who redeemes us from the curſe, that the bleſſing may come upon us through Faith,</hi> Gal. 3. The bleſſed God <hi>begets thee again to a lively hope by the Reſurrection of Jeſus Chriſts</hi> 1 Pet. 1.3. <hi>Though now for a ſeaſon thou be in manifold temptations,</hi> verſe 5. <hi>theſe are as the waters of</hi> Noah <hi>Eſay</hi> 54.8. But alas, <hi>the waters come unto my ſoul,</hi> Pſal. 69.1. The Title of the Pſalme is <hi>Pro iis qui commu<g ref="char:EOLhyphen"/>tabuntur:</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, for thoſe who are converted, changed, renewed, begotten again. In behalf of theſe <hi>the Lord is upon many waters,</hi> Pſalm 29.3. yea, verſe 10. <hi>The Lord ſits</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>upon</hi> Noahs <hi>flood,</hi> (ſo the word is properly uſed) and ſteers and guids thy Veſſell to the Haven of life and peace. But when the overflowing ſcourge overwhelmeth the world, how ſhall I eſcape? Thou knoweſt not how; nor did <hi>Noah,</hi> when he ſpared not the old world, but ſaved <hi>Noah;</hi> nor did <hi>Lot</hi> know, when the Lord turned the Cities of <hi>Sodome</hi> and <hi>Gomorrah</hi> into aſhes and delivered juſt <hi>Let.</hi> The Lord knowes (though we know not) <hi>How to deliver the Godly out of temptations, and to re<g ref="char:EOLhyphen"/>ſerve the unjuſt to the day of judgement to be puniſhed,</hi> 2 Pet. 2.</p>
+                  <p>Beloved! Let me now act the part of a Preacher of Righte<g ref="char:EOLhyphen"/>ouſneſs. Let us all be exhorted to enter into this Ark of Re<g ref="char:EOLhyphen"/>generation. The Jews have a proverbiall ſpeech; When the Lord opens <hi>Din,</hi> then let <hi>Iſrael</hi> betake themſelves unto their houſes. The Lord hath now for many years opened <hi>Din,</hi> even the treaſury of his judgements upon us: But withall he hath ſet the doore of the Ark, even the ſtraight gate of Mortifica<g ref="char:EOLhyphen"/>tion, open unto us. And the Preachers of Righteouſneſs, they exhort us dayly to enter in. But as when the eight perſons had preached for many years, how few alas! how few were per<g ref="char:EOLhyphen"/>ſwaded to enter into the Ark? We reade but of eight ſouls that were ſaved. Lord, ſaith the Diſciples, <hi>Are there few that ſhall be ſaved?</hi> Our Lord anſwers, <hi>Strive to enter in at the ſtrait gate,</hi> Luke 13.23.24.</p>
+                  <pb n="21" facs="tcp:168277:15"/>
+                  <p>When <hi>Noah</hi> was entred into the Ark, the flood-gates of hea<g ref="char:EOLhyphen"/>ven were opened. It was then too late to enter; the flood came and took them all away. <hi>O let us now ſtrive to enter in at the ſtrait gate; For the time will come,</hi> yea come it will <hi>when many ſhall ſtrive to enter in, and ſhall not be able; when once the Maſter of the houſe is riſen up, and hath ſhut to the dore &amp;c.</hi>
+                  </p>
+                  <p>O beloved! <hi>let us ſeek the Lord while he may be found, let us call upon him while he is near,</hi> Iſa. 55.6, 7. <hi>in the great wa<g ref="char:EOLhyphen"/>ter-floods they ſhall not come nigh him,</hi> Pſal. 32.6.</p>
+                  <p>But we are profeſſors of the godly party; ſuch as hear the Word, receive the Sacrament; we are ſure of our ſalvation, though we have our infirmities <hi>&amp;c.</hi>
+                  </p>
+                  <p>Beloved! In <hi>Noahs</hi> time, and before, <hi>Cains</hi> poſterity were great pretenders to Religion. <hi>Enoch Cains</hi> eldeſt ſon a man dedicated unto God. His grand-child <hi>Mehujael, Annuntians Deum,</hi> a preacher, one who ſpake much of God. Another of of his race <hi>Lamech,</hi> an humble man. And do we not ſee, eſpe<g ref="char:EOLhyphen"/>cially now Religion is in faſhion, that many who walk in the way of <hi>Cain,</hi> and walk after their own luſts, yet make great profeſſion of religion? They tell the ſpiritual <hi>Noah</hi> that they eat and drink at his table, and he hath taught in their ſtreets; yet the dore will be ſhut even againſt theſe, and they ſhall hear their doom. <hi>I know ye not, depart from me ye workers of iniquity.</hi> But we are Beloved of God; elected before the foundation of the world; ſo that whatſoever our infirmities are, we are ſure of our ſalvation.</p>
+                  <p>Our Lord will ſay to ſuch in the Judgment; Thou thoughteſt wickedly that I was even ſuch a One as thy ſelf, but I will reprove thee &amp;c. <hi>Pſal</hi> 50. <hi>And hath not God choſen all his Elect in Chriſt before the foundation of the world, that they ſhould be holy and without blame before him in love?</hi> Epheſ. 1. <hi>Theſe men conſider not that ſalvation is deliverance from ſin,</hi> Matth. 1. And can they be ſure of ſalvation from ſin, while yet they willingly live in their ſin? Or do they think, that God loves his own righteouſ<g ref="char:EOLhyphen"/>neſs, which is himſelf, or them better? <hi>The righteous Lord lo<g ref="char:EOLhyphen"/>veth righteouſneſſe,</hi> Pſal. 11.7. <hi>Little children let no man deceive you: He that doth Righteouſneſſe is righteous, even as he is righ<g ref="char:EOLhyphen"/>teous: He that committeth ſin is of the devill,</hi> 1 John 3.7.
+<pb n="22" facs="tcp:168277:16"/>If any man call his cuſtomary ſins infirmities (as commonly they do who walk in the way of <hi>Cain</hi>) let him know that ſuch infir<g ref="char:EOLhyphen"/>mities they are, as exclude thoſe who do them, out of the king<g ref="char:EOLhyphen"/>dome of God, 1 <hi>Cor.</hi> 6.9, 10. <hi>Gal.</hi> 5.21.</p>
+                  <p>Let us therefore enquire what manner of men they were, who periſhed in the flood.</p>
+                  <p n="2">2. What manner of men the moſt are, who live in this preſent age before the overflowing ſcourge.</p>
+                  <p n="3">3. What wanner of men we ought to be, who may hope to eſcape the overflowing ſcourge.</p>
+                  <p>As to the firſt query, the anſwer is in the text, <hi>They were ea<g ref="char:EOLhyphen"/>ting, and drinking, marrying &amp;c.</hi>
+                  </p>
+                  <p>As for the ſecond, the men of this generation are like to thoſe as our Saviour foretold, but farre exceeding them in the ſame and many other ſinnes: ſuch are unfaithfulneſſe toward God and men, for when the Son of Man cometh ſhall He find faith on the earth? <hi>Luke</hi> 18. Abundance of iniquity, want of love to God and men, <hi>Matthew</hi> 24.12. But the Apoſtle foretells what a deluge of iniquity ſhould flow into theſe later dayes even the dreggs of time, 2 <hi>Tim.</hi> 3.1.5. <hi>This know that in the later dayes perilous times ſhall be: for men ſhall be lovers of them<g ref="char:EOLhyphen"/>ſelves.</hi> And who ſees not this Propheſie fulfilled?</p>
+                  <p n="3">3. What manner of men ought we to be, who may hope to eſcape the overflowing ſcourge? who may with confidence and comfort expect the coming of the Son of Man? Saint <hi>Paul</hi> gives <hi>Timothy</hi> great charge <hi>to keep the Commandment without ſpot, untill the approaching of our Lord Jeſus Chriſt,</hi> 1 Tim. 6.15. And Saint <hi>Peter</hi> having warned us of the day of the Lord, <hi>It ſhall come as a thief in the night,</hi> 2 Pet. 3.10.11. at the 14. verſe, <hi>Wherefore beloved, ſeeing we look for ſuch things, be diligent that ye may be found of him in peace, and with<g ref="char:EOLhyphen"/>out ſpot, and blameleſs.</hi>
+                  </p>
+                  <p>O let us not be <hi>Curvae in terras animae,</hi> A crooked Genera<g ref="char:EOLhyphen"/>tion; <hi>Ventri obedientes,</hi> groveling on the Earth, bowed to the earth and earthly things, whoſe belly cleaves to the ground; but let us remember our Lords Exhortation, <hi>Luke</hi> 21, 28. minding his Diſciples of his comming <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Look up, and lift up your heads, <hi>for your redemption draweth nigh.</hi>
+                  </p>
+                  <pb n="23" facs="tcp:168277:16"/>
+                  <p>Let us avoid all known ſin; <hi>Let us remove anger from our heart, and evil, the concupiſcible from thy fleſh,</hi> Eccleſ. 11. <hi>ſuſpect and fear the danger of lawfull actions.</hi>
+                  </p>
+                  <p>The Table may be made a ſnare, <hi>Pſalme</hi> 60.22. When our Lord was an hungred, and not till then, the tempter came unto him, <hi>Matthew</hi> 4.2, 3. Eat and drink we, our loyns girt, <hi>Gird your loynes of your mind, be ſober, and hope to to the end, for the grace that is to be brought unto you at the Revelation of Jeſus Chriſt,</hi> 1 Pet. 1.13. <hi>For he who hath this hope, purifies himſelf as God is pure,</hi> 1 John 3.3.</p>
+                  <p>Believe the threatnings of God as well as the promiſes. <hi>Noah</hi> believed not onely the promiſes of God, but the threat<g ref="char:EOLhyphen"/>nings alſo; ſo that being moved with fear, he built an Ark. The <hi>Ninivites</hi> believed God, when <hi>Jonah</hi> threatned them.</p>
+                  <p>We, that we may be able to doe, the grace of God that bringeth ſalvation to all men, hath appeared; teaching us to deny ungodlyneſs and worldly luſts, and to live ſoberly, righ<g ref="char:EOLhyphen"/>teouſly and godly in this preſent world, looking for the bleſſed hope of the glorious appearing of the great God, and our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
